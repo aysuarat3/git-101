@@ -1,4 +1,4 @@
-# Aysu Arat 
-# Yaş :21 
-# Endüstri Mühendisliği(ingilizce) öğrencisi
-# Veri bilimci adayı 
+Aysu = {
+  "title": {"Gaziantep University":"Industrial Engineering Student"},
+  "website": "https://www.linkedin.com/in/aysuarat3/"
+}
